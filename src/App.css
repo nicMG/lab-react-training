@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.red {
+  background-color: red;
+  border: 1px solid black;
+  width: 25px;
+  text-align: center;
+}
+
+.white {
+  width: 25px;
+  border: 1px solid black;
+  text-align: center;
+}
